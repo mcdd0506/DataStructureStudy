@@ -1,4 +1,3 @@
-#
 name: CI|CD Build Docker
 
 # This workflow runs when any of the following occur:

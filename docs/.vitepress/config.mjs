@@ -2,7 +2,7 @@ import {defineConfig} from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-    base: '/Data_Structure_Study/',
+    base: '/DataStructureStudy/',
     title: "Data Structure Study",
     description: "数据结构学习@青岛大学-王卓",
     markdown: {
@@ -11,7 +11,7 @@ export default defineConfig({
     },
 
     themeConfig: {
-        head: [["link", {rel: "icon", href: "/docs-template/mcdd.jpg"}]],
+        head: [["link", {rel: "icon", href: "/DataStructureStudy/mcdd.jpg"}]],
         outline: [1, 4],
         lastUpdated: true,
 
@@ -77,7 +77,7 @@ export default defineConfig({
             },
         },
         socialLinks: [
-            {icon: "github", link: "https://github.com/caobaoqi1029"},
+            {icon: "github", link: "https://github.com/mcdd0506"},
             {
                 icon: {
                     svg: '<svg t="1713342157310" class="icon" viewBox="0 0 1024 1024" version="1.1" xmlns="http://www.w3.org/2000/svg" p-id="1444" width="16" height="16"><path d="M512 960A448 448 0 1 1 512 64a448 448 0 0 1 0 896z m226.752-497.792H484.352a22.144 22.144 0 0 0-22.144 22.144v55.296c0 12.224 9.92 22.144 22.08 22.144h154.88c12.288 0 22.144 9.92 22.144 22.08v11.072c0 36.672-29.696 66.368-66.368 66.368H384.768a22.144 22.144 0 0 1-22.08-22.08V429.056c0-36.672 29.696-66.368 66.304-66.368h309.76c12.16 0 22.08-9.92 22.08-22.144v-55.296a22.144 22.144 0 0 0-22.08-22.144h-309.76a165.888 165.888 0 0 0-165.888 165.952v309.696c0 12.224 9.92 22.144 22.144 22.144h326.272a149.312 149.312 0 0 0 149.376-149.312V484.352a22.144 22.144 0 0 0-22.144-22.144z" fill="#C71D23" p-id="1445"></path></svg>',

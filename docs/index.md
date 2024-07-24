@@ -28,7 +28,7 @@ import { VPTeamMembers } from 'vitepress/theme';
 const members = [
   {
     avatar: 'https://2024-cbq-1311841992.cos.ap-beijing.myqcloud.com/picgo/avatar.png',
-    name: 'cbq1029',
+    name: 'mcdd0506',
     links: [
       { icon: 'github', link: 'https://github.com/caobaoqi1029' },
       { icon: {
@@ -49,7 +49,7 @@ const members = [
 
 > Link: https://www.bilibili.com/video/BV1nJ411V7bd/?vd_source=9071a50b607525e6db8ba7b49bc960f5
 
-| 工具  | 版本     |
-| ----- | -------- |
+| 工具    | 版本       |
+|-------|----------|
 | CLion | 2024.1.4 |
 | C     | C99      |

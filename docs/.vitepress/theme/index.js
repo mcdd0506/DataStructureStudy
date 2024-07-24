@@ -22,10 +22,10 @@ export default {
     const route = useRoute();
 
     giscusTalk({
-          repo: 'caobaoqi1029/Data_Structure_Study',
-          repoId: 'R_kgDOMX6gHA',
+          repo: 'mcdd0506/DataStructureStudy',
+          repoId: 'R_kgDOMacULQ',
           category: 'Announcements',
-          categoryId: 'DIC_kwDOMX6gHM4Cg5uU',
+          categoryId: 'DIC_kwDOMacULc4ChH_F',
           mapping: 'pathname',
           inputPosition: 'top',
           lang: 'zh-CN',
